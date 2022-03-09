@@ -1,0 +1,10 @@
+!!ATOK_TANGO_TEXT_HEADER_1
+
+!!
+!! format: https://support.justsystems.com/faq/1032/app/servlet/qadoc?QID=033057
+!!  自動置換する/しない: 文字を変換するときに、設定した置換候補に自動的に置き換えるか置き換えないかを設定します。
+!!  品詞: https://support.justsystems.com/faq/1032/app/servlet/qadoc?QID=032741
+!!   よく使うの: 名詞/固有人姓/固有人名/固有人他/固有地名/固有組織/固有商品/固有一般/顔文字
+!!
+!!よみ(ひらがな)	単語	品詞	コメント(以下省略可能)	自動変換(する/しない)	置換候補(最大5個)
+!!
